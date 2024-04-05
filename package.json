@@ -1,0 +1,14 @@
+{
+  "name": "find-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "find-right-expressions.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "homepage": ".",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
